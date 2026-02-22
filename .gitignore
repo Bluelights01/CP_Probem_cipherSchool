@@ -1,0 +1,13 @@
+# Ignore Apple/LLVM debug symbol folders
+*.dSYM/
+
+# Ignore all executable files (no extension)
+# This works well on Unix-like systems for compiled binaries
+*
+!*.*
+!*/
+
+# Specific common executable extensions
+*.exe
+*.out
+*.app

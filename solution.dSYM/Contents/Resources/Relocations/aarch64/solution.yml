@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ayushgoyal/Documents/A01codeforces/CP_problem/solution'
+relocations:
+  - { offset: 0x19, size: 0x8, addend: 0x0, symName: __Z5solvePci, symObjAddr: 0x0, symBinAddr: 0x1000037A8, symSize: 0x6C0 }
+  - { offset: 0x754, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x6C0, symBinAddr: 0x100003E68, symSize: 0x80 }
+  - { offset: 0x7B7, size: 0x8, addend: 0x0, symName: __Z5solvePci, symObjAddr: 0x0, symBinAddr: 0x1000037A8, symSize: 0x6C0 }
+...
