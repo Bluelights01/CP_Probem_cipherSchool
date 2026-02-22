@@ -22,7 +22,7 @@ Given:
 
 Determine:
 
-> In how many valid castings is the kid standing at position `k` selected?
+** In how many valid castings is the kid standing at position `k` selected?**
 
 ---
 
